@@ -1,0 +1,132 @@
+"index_label","index","variable","label","exclude"
+"Polyarchy","v2x_polyarchy","v2mecenefm","Government censorship effort - Media",0
+"Polyarchy","v2x_polyarchy","v2meharjrn","Harassment of journalists",0
+"Polyarchy","v2x_polyarchy","v2meslfcen","Media self-censorship",0
+"Polyarchy","v2x_polyarchy","v2mebias","Media bias",0
+"Polyarchy","v2x_polyarchy","v2mecrit","Print/broadcast media critical",0
+"Polyarchy","v2x_polyarchy","v2merange","Print/broadcast media perspectives",0
+"Polyarchy","v2x_polyarchy","v2cldiscm","Freedom of discussion for men",0
+"Polyarchy","v2x_polyarchy","v2cldiscw","Freedom of discussion for women",0
+"Polyarchy","v2x_polyarchy","v2clacfree","Freedom of academic and cultural expression",0
+"Polyarchy","v2x_polyarchy","v2psparban","Party ban",0
+"Polyarchy","v2x_polyarchy","v2psbars","Barriers to parties",0
+"Polyarchy","v2x_polyarchy","v2psoppaut","Opposition parties autonomy",0
+"Polyarchy","v2x_polyarchy","v2elmulpar","Elections multiparty",0
+"Polyarchy","v2x_polyarchy","v2cseeorgs","CSO entry and exit",0
+"Polyarchy","v2x_polyarchy","v2csreprss","CSO repression",0
+"Polyarchy","v2x_polyarchy","v2elsuffrage","Percent of population with suffrage",1
+"Polyarchy","v2x_polyarchy","v2elembaut","EMB autonomy",0
+"Polyarchy","v2x_polyarchy","v2elembcap","EMB capacity",0
+"Polyarchy","v2x_polyarchy","v2elrgstry","Election voter registry",0
+"Polyarchy","v2x_polyarchy","v2elvotbuy","Election vote buying",0
+"Polyarchy","v2x_polyarchy","v2elirreg","Election other voting irregularities",0
+"Polyarchy","v2x_polyarchy","v2elintim","Election government intimidation",0
+"Polyarchy","v2x_polyarchy","v2elpeace","Election other electoral violence",0
+"Polyarchy","v2x_polyarchy","v2elfrfair","Election free and fair",0
+"Polyarchy","v2x_polyarchy","v2lgbicam","Legislature bicameral",1
+"Polyarchy","v2x_polyarchy","v2lgello","Lower chamber elected",1
+"Polyarchy","v2x_polyarchy","v2lgelecup","Upper chamber elected",1
+"Polyarchy","v2x_polyarchy","v2lgdomchm","Legislature dominant chamber",1
+"Polyarchy","v2x_polyarchy","v2exaphos","HOS selection by legislature in practice",1
+"Polyarchy","v2x_polyarchy","v2expathhs","HOS appointment in practice",1
+"Polyarchy","v2x_polyarchy","v2exaphogp","HOG selection by legislature in practice",1
+"Polyarchy","v2x_polyarchy","v2expathhg","HOG appointment in practice",1
+"Polyarchy","v2x_polyarchy","v2exdfcbhs","HOS appoints cabinet in practice",0
+"Polyarchy","v2x_polyarchy","v2exdjcbhg","HOG appoints cabinet in practice",0
+"Polyarchy","v2x_polyarchy","v2exdfdmhs","HOS dismisses ministers in practice",0
+"Polyarchy","v2x_polyarchy","v2exdfdshg","HOG dismisses ministers in practice",0
+"Polyarchy","v2x_polyarchy","v2exhoshog","HOG dismisses ministers in practice",1
+"Polyarchy","v2x_polyarchy","v2exapup","Chief executive appointment by upper chamber",1
+"Polyarchy","v2x_polyarchy","v2exapupap","Chief executive appointment by upper chamber explicit approval",1
+"Liberal","v2x_libdem","v2clrspct","Rigorous and impartial public administration",0
+"Liberal","v2x_libdem","v2cltrnslw","Transparent laws with predictable enforcement",0
+"Liberal","v2x_libdem","v2clacjstm","Access to justice for men",0
+"Liberal","v2x_libdem","v2clacjstw","Access to justice for women",0
+"Liberal","v2x_libdem","v2clprptym","Property rights for men",0
+"Liberal","v2x_libdem","v2clprptyw","Property rights for women",0
+"Liberal","v2x_libdem","v2cltort","Freedom from torture",0
+"Liberal","v2x_libdem","v2clkill","Freedom from political killings",0
+"Liberal","v2x_libdem","v2clslavem","Freedom from forced labor for men",0
+"Liberal","v2x_libdem","v2clslavef","Freedom from forced labor for women",0
+"Liberal","v2x_libdem","v2clrelig","Freedom of religion",0
+"Liberal","v2x_libdem","v2clfmove","Freedom of foreign movement",0
+"Liberal","v2x_libdem","v2cldmovem","Freedom of domestic movement for men",0
+"Liberal","v2x_libdem","v2cldmovew","Freedom of domestic movement for women",0
+"Liberal","v2x_libdem","v2exrescon","Executive respects constitution",0
+"Liberal","v2x_libdem","v2jucomp","Compliance with judiciary",0
+"Liberal","v2x_libdem","v2juhccomp","Compliance with high court",0
+"Liberal","v2x_libdem","v2juhcind","High court independence",0
+"Liberal","v2x_libdem","v2juncind","Lower court independence",0
+"Liberal","v2x_libdem","v2lgqstexp","Legislature questions officials in practice",0
+"Liberal","v2x_libdem","v2lgotovst","Executive oversight",0
+"Liberal","v2x_libdem","v2lginvstp","Legislature investigates in practice",0
+"Liberal","v2x_libdem","v2lgoppart","Legislature opposition parties",0
+"Deliberative","v2x_delibdem","v2dlreason","Reasoned justification",0
+"Deliberative","v2x_delibdem","v2dlcommon","Common good",0
+"Deliberative","v2x_delibdem","v2dlcountr","Respect counterarguments",0
+"Deliberative","v2x_delibdem","v2dlconslt","Range of consultation",0
+"Deliberative","v2x_delibdem","v2dlengage","Engaged society",0
+"Egalitarian","v2x_egaldem","v2clacjust","Social class equality in respect for civil liberties",0
+"Egalitarian","v2x_egaldem","v2clsocgrp","Social group equality in respect for civil liberties",0
+"Egalitarian","v2x_egaldem","v2clsnlpct","Weaker civil liberties population",1
+"Egalitarian","v2x_egaldem","v2pepwrgen","Power distributed by gender",0
+"Egalitarian","v2x_egaldem","v2pepwrses","Power distributed by socioeconomic position",0
+"Egalitarian","v2x_egaldem","v2pepwrsoc","Power distributed by social group",0
+"Egalitarian","v2x_egaldem","v2dlunivl","Means-tested vs. universalistic",0
+"Egalitarian","v2x_egaldem","v2dlencmps","Encompassingness",0
+"Egalitarian","v2x_egaldem","v2peedueq","Educational equality",0
+"Egalitarian","v2x_egaldem","v2pehealth","Health equality",0
+"Participatory","v2x_partipdem","v2pscnslnl","Candidate selection--National/local",0
+"Participatory","v2x_partipdem","v2cscnsult","CSO consultation",0
+"Participatory","v2x_partipdem","v2csprtcpt","CSO participatory environment",0
+"Participatory","v2x_partipdem","v2csgender","CSO womens participation",0
+"Participatory","v2x_partipdem","v2ddlexci","Initiatives permitted",1
+"Participatory","v2x_partipdem","v2ddsigpci","Initiatives signatures %",1
+"Participatory","v2x_partipdem","v2ddsiglci","Initiatives signature-gathering time limit",1
+"Participatory","v2x_partipdem","v2ddsigdci","Initiatives signature-gathering period",1
+"Participatory","v2x_partipdem","v2ddlevci","Initiatives level",1
+"Participatory","v2x_partipdem","v2ddpartci","Initiatives participation threshold",1
+"Participatory","v2x_partipdem","v2ddapprci","Initiatives approval threshold",1
+"Participatory","v2x_partipdem","v2ddadmci","Initiatives administrative threshold",1
+"Participatory","v2x_partipdem","v2ddspmci","Initiatives super majority",1
+"Participatory","v2x_partipdem","v2ddyrci","Occurrence of citizen-initiative this year",1
+"Participatory","v2x_partipdem","v2ddlexrf","Referendums permitted",1
+"Participatory","v2x_partipdem","v2ddsigprf","Referendums signatures %",1
+"Participatory","v2x_partipdem","v2ddsigdrf","Referendums signature-gathering period",1
+"Participatory","v2x_partipdem","v2ddpartrf","Referendums participation threshold",1
+"Participatory","v2x_partipdem","v2ddapprrf","Referendums approval threshold",1
+"Participatory","v2x_partipdem","v2ddspmrf","Referendums super majority",1
+"Participatory","v2x_partipdem","v2ddadmrf","Referendums administrative threshold",1
+"Participatory","v2x_partipdem","v2ddyrrf","Occurrence of referendum this year",1
+"Participatory","v2x_partipdem","v2ddlexpl","Plebiscite permitted",1
+"Participatory","v2x_partipdem","v2ddpartpl","Plebiscite participation threshold",1
+"Participatory","v2x_partipdem","v2ddapprpl","Plebiscite approval threshold",1
+"Participatory","v2x_partipdem","v2ddspmpl","Plebiscite super majority",1
+"Participatory","v2x_partipdem","v2ddadmpl","Plebiscite administrative threshold",1
+"Participatory","v2x_partipdem","v2ddyrpl","Occurrence of plebiscite this year",1
+"Participatory","v2x_partipdem","v2ddlexor","Constitutional changes popular vote",1
+"Participatory","v2x_partipdem","v2ddpartor","Obligatory referendum participation threshold",1
+"Participatory","v2x_partipdem","v2ddappor","Obligatory referendum approval threshold",1
+"Participatory","v2x_partipdem","v2ddspmor","Obligatory referendum super majority",1
+"Participatory","v2x_partipdem","v2ddadmor","Obligatory referendum administrative threshold",1
+"Participatory","v2x_partipdem","v2ddyror","Occurrence of obligatory referendum this year",1
+"Participatory","v2x_partipdem","v2ddthreor","Obligatory referendum credible threat",1
+"Participatory","v2x_partipdem","v2ddthrerf","Popular referencum credible threat",1
+"Participatory","v2x_partipdem","v2ddthrepl","Plebiscite credible threat",1
+"Participatory","v2x_partipdem","v2ellocelc","Local government elected",1
+"Participatory","v2x_partipdem","v2ellocpwr","Local offices relative power",0
+"Participatory","v2x_partipdem","v2ellocgov","Local government exists",1
+"Participatory","v2x_partipdem","v2elsrgel","Regional government elected",1
+"Participatory","v2x_partipdem","v2elrgpwr","Regional offices relative power",1
+"Participatory","v2x_partipdem","v2elreggov","Regional government exists",1
+"Corruption","v2x_corr","v2lgcrrpt","Legislature corrupt activities",0
+"Corruption","v2x_corr","v2jucorrdc","Judicial corruption decision",0
+"Corruption","v2x_corr","v2excrptps","Public sector corrupt exchanges",0
+"Corruption","v2x_corr","v2exthftps","Public sector theft",0
+"Corruption","v2x_corr","v2exbribe","Executive bribery and corrupt exchanges",0
+"Corruption","v2x_corr","v2exembez","Executive embezzlement and theft",0
+"Parties","v2xps_party","v2psorgs","Party organizations",0
+"Parties","v2xps_party","v2psprbrch","Party branches",0
+"Parties","v2xps_party","v2psprlnks","Party linkages",0
+"Parties","v2xps_party","v2psplats","Distinct party platforms",0
+"Parties","v2xps_party","v2pscohesv","Legislative party cohesion",0
